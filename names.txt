@@ -1,1 +1,3 @@
 hello world , where i really started how to use git and git bash
+today is a new day that i am working on different scenarios and i hope to find
+one self in a good mode
